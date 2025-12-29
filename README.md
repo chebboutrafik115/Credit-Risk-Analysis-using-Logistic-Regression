@@ -21,9 +21,9 @@ The workflow was implemented in **Python** (Google Colab) following these steps:
 
 ## 🚀 Results
 The model achieved strong performance metrics, validating the effectiveness of the logistic approach:
-- **Accuracy:** 91.35%
-- **F1-Score:** 0.91
-- **AUC (Area Under Curve):** 0.99
+- **Accuracy:** 92.48%
+- **F1-Score:** 0.92
+- **AUC (Area Under Curve):** 0.98
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
