@@ -32,9 +32,9 @@ This project focuses on **Credit Scoring**, a critical tool for financial instit
 
 ## 🚀 Results
 The model was evaluated using a Confusion Matrix, Precision, Recall, F1-Score, and the ROC Curve.
-- **Accuracy:** 91.35%
-- **F1-Score:** 0.91
-- **AUC (Area Under Curve):** 0.99
+- **Accuracy:** 92.48%
+- **F1-Score:** 0.92
+- **AUC (Area Under Curve):** 0.98
 
 These results highlight the relevance of Logistic Regression as an interpretable and effective method for credit risk assessment.
 
