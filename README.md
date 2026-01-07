@@ -26,9 +26,9 @@ The model achieved strong performance metrics, validating the effectiveness of t
 - **AUC (Area Under Curve):** 0.98
 
 ##  Technologies Used
-- **Python 3.x**
+- **Python 3.8**
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
-- **Environment:** Google Colab / Jupyter Notebook.
+- **Environment:** Google Colab.
 
 ##  Authors
 - **CHEBBOUT Rafik**
